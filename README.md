@@ -2,7 +2,7 @@
 
 Personal portfolio of Kumaresh PV, Data Analyst at BMO Financial Group (Regulatory Reporting — FR 2052a).
 
-Built with React (Create React App). Design theme: **black · royal red · gold**, with scroll-reveal animations, a typing-effect hero, animated stat counters, timeline experience/education, animated skill bars and badges, and glowing project cards.
+Built with React
 
 ## Getting started
 
